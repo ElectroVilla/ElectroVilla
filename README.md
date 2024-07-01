@@ -3,7 +3,7 @@
 
 - 💞️ I’m looking to collaborate on Building new smart websites, integrating them with sensors, actuators, other hardware for all of you
 - 📫 How to reach me: 
-email: mina@electrovilla.com
+email: mina@smartsoftek.com
 backup email: electronixboy@gmail.com
 WhatsApp: +201222332191
 
