@@ -1,7 +1,7 @@
-- 👋 Hi, ElectroVilla is Here, We are custom electronic systems manufaturers and web developers
+- 👋 Hi, ElectroVilla is Here, We are custom electronic systems manufacturers and web developers
 - 👀 I’m interested in electronics, web apps, smart solutions
 
-- 💞️ I’m looking to collaborate on Building new smart websites, integrating them with sensors, actuators, other hardware for all of you
+- 💞️ I’m looking to collaborate on Building new smart websites, integrating them with sensors, actuators, and other hardware for all of you
 - 📫 How to reach me: 
 email: mina@smartsoftek.com
 backup email: electronixboy@gmail.com
